@@ -1,0 +1,10 @@
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:21:59) [MSC v.1900 32 bit (Intel)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 6.2.1 -- An enhanced Interactive Python.
+
+runfile('C:/Users/zabiulla.khan/Assignments/Assignment 2.1.py', wdir='C:/Users/zabiulla.khan/Assignments')
+113
+384
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4]
